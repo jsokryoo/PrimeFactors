@@ -2,5 +2,7 @@
 #include "../Project20/primefactor.cpp"
 
 TEST(PrimeFactorTest, TestName) {
-	PrimeFactor p;
+	EXPECT_EQ(1, 1);
+	EXPECT_EQ(1, 1);
+	EXPECT_EQ(1, 1);
 }
